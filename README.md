@@ -82,5 +82,3 @@ category_id (Foreign Key)
 
 **Author**
 Developed by Gaurav Lagad.
-
-For any queries, contact me at gaura@gaurav-96.
